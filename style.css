@@ -5,7 +5,7 @@
 	}
 	
 	body{
-		background-image: url("img/bgcolor/bg.jpg");
+		background-image: url("bgcolor/bg.jpg");
 	}
 	.wrapper{
 		width: 960px;
@@ -17,7 +17,7 @@
 		width: 956px;
 		height: 160px;
 		line-height: 2.5em;
-		background-image: url("img/bgcolor/header.jpg");
+		background-image: url("bgcolor/header.jpg");
 		border: 2px solid #fff;
 	}
 	
